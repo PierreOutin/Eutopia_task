@@ -1,0 +1,7 @@
+numpy
+pandas
+pytorch_pretrained_bert
+nltk
+matplotlib
+torch
+tensorflow
